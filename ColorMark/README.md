@@ -1,0 +1,3 @@
+* main.py 色块数据标注工具，数据存放在 resource/output_images/00000.jpg ......
+* auto_mark.py 识别一张图片自动标注颜色数据(效率慢)
+* SAM2.py sam2 的二次封装
